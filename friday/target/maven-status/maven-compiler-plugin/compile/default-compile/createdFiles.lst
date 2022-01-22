@@ -1,0 +1,10 @@
+de\lokilp66\friday\Friday.class
+de\lokilp66\friday\utils\LocationUtils.class
+de\lokilp66\friday\commands\PointCommand.class
+de\lokilp66\friday\listener\JoinQuitListener.class
+de\lokilp66\friday\listener\inventory\Navigator.class
+de\lokilp66\friday\utils\ItemBuilder.class
+de\lokilp66\friday\commands\SpawnCommand.class
+de\lokilp66\friday\commands\SetPointCommand.class
+de\lokilp66\friday\utils\FileConfig.class
+de\lokilp66\friday\commands\DoubleInvCommand.class

@@ -1,0 +1,29 @@
+name: Friday
+version: '${project.version}'
+main: de.lokilp66.friday.Friday
+api-version: 1.18
+authors: [LokiLP66, Icy]
+description: friday
+commands:
+  spawn:
+    description: you can go to the spawn
+    aliases: [setspawn, spawn]
+  setpoint:
+    description: you can set a point
+    aliases: []
+  point:
+    description: you can teleport to a point
+    aliases: []
+  dinv:
+    description: you can use a second public Inv
+    aliases: [ ]
+permissions:
+  de:
+    lokilp66:
+      friday:
+        setspawn:
+          description: you can go to the spawn
+          default: op
+        setpoint:
+          description: you can go to the point
+          default: op
